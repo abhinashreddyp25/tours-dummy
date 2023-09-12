@@ -1,0 +1,18 @@
+.navigation {
+  background: #fff1f5;
+}
+.main {
+  background-image: url("wall.jpg");
+  background-size: cover;
+  height: 90vh;
+  background-repeat: no-repeat;
+}
+.main p {
+  width: 800px;
+}
+.grid-style {
+  background: #fff1f5;
+}
+.footer {
+  margin-right: 50rems;
+}
